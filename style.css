@@ -1,0 +1,65 @@
+html {
+	font-family: 'Lato', 'Helvetica', sans-serif;
+}
+
+body {
+	background-color: #5596e6;
+	color: #FFFFFF;
+	padding: 30px;
+}
+
+h1 {
+	font-size: 3em;
+	letter-spacing: .05em;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-align: left;
+}
+
+a:link,
+a:hover,
+a:visited,
+a:active {
+	color: #DCFF68;
+}
+
+button {
+	margin-top: 40px;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0px;
+	font-family: Arial;
+	color: #ffffff;
+	font-size: 20px;
+	letter-spacing: .07em;
+	background: #5596e6;
+	padding: 10px 20px 10px 20px;
+	border: solid #ffffff 2px;
+	text-decoration: none;
+
+}
+
+.btn:hover {
+	transition: all 0.2s ease 0s;
+    background: #ffffff;
+    color: #5596e6;
+    text-decoration: none;
+}
+
+
+.gens {
+	color: #FFFFFF;
+	width: 60%;
+	padding: 1em 2.5em 1em 2.5em;
+	border: 1px dashed #FFFFFF;
+	text-align: center;
+	font-size: 1.5em;
+	line-height: 2em;
+}
+
+.gen {
+	color: #000000;
+	background-color: #DCFF68;
+	padding: 0 .5em;
+	margin: 0 .5em;
+}
