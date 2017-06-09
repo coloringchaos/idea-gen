@@ -36,7 +36,6 @@ button {
 	padding: 10px 20px 10px 20px;
 	border: solid #ffffff 2px;
 	text-decoration: none;
-
 }
 
 .btn:hover {
@@ -62,4 +61,8 @@ button {
 	background-color: #DCFF68;
 	padding: 0 .5em;
 	margin: 0 .5em;
+}
+.special{
+	/*font-size:.7em;*/
+	letter-spacing: .06em;
 }
