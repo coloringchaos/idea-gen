@@ -6,7 +6,6 @@ body {
 	background-color: #5596e6;
 	color: #FFFFFF;
 	padding: 30px;
-
 }
 
 h1 {
@@ -14,8 +13,7 @@ h1 {
 	letter-spacing: .05em;
 	color: #FFFFFF;
 	font-weight: bold;
-	text-align: center;
-	padding:10px 20px;
+	text-align: left;
 }
 
 a:link,
@@ -51,9 +49,7 @@ button {
 .gens {
 	color: #FFFFFF;
 	width: 60%;
-	/* height: 40%; */
-	margin:0 auto;
-	padding: 4em 3em 4em 3em;
+	padding: 1em 2.5em 1em 2.5em;
 	border: 1px dashed #FFFFFF;
 	text-align: center;
 	font-size: 1.5em;
@@ -69,5 +65,4 @@ button {
 .special{
 	/*font-size:.7em;*/
 	letter-spacing: .06em;
-	text-align: center;
 }
